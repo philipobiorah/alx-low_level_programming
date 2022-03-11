@@ -14,4 +14,5 @@ for (c = 'a'; c <= 'z'; c++)
 putchar(c);
 printf("\n");
 }
+return (0);
 }
