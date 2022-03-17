@@ -2,7 +2,8 @@
 
 /**
  *  print_numbers - Entry point
- * Description:  A function that prints the numbers, from 0 to 9, followed by a new line.
+ * Description:  A function that prints the numbers,
+ *  from 0 to 9, followed by a new line.
  * @void: it receives no parameter ..
  * Return: Returns nothing
  */
