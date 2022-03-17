@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *  print_numbers - Entry point
- * Description:   A function that prints the numbers,
+ * print_most_numbers - Entry point
+ * Description: A function that prints the numbers,
  *  from 0 to 9, followed by a new line.
  *  Does not print 2 and 4
  * @void: it receives no parameter ..
